@@ -1,1 +1,717 @@
-[]
+[
+  {
+    "bill_id": "2025-HB-4291",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4291",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4292",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4292",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4293",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4293",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4294",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4294",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4295",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4295",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4296",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4296",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4297",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4297",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4316",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4316",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4317",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4317",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4318",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4318",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4320",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4320",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4321",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4321",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4322",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4322",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4323",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4323",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4326",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4326",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4405",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4405",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4406",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4406",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4409",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4409",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4433",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4433",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4435",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4435",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4436",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4436",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4437",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4437",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4438",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4438",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4439",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4439",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4440",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4440",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4441",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4441",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4446",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4446",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4447",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4447",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4448",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4448",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4449",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4449",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4450",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4450",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4451",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4451",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4452",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4452",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4453",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4453",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4454",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4454",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4455",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4455",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4456",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4456",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4457",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4457",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4458",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4458",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4475",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4475",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4492",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4492",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4514",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4514",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4516",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4516",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4625",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4625",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4725",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4725",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4758",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4758",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4759",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4759",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4762",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4762",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4764",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4764",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-4781",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-4781",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5000",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5000",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5001",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5001",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5002",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5002",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5003",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5003",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5004",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5004",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5005",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5005",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5006",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5006",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5007",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5007",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5008",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5008",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5098",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5098",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5118",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5118",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5119",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5119",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5141",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5141",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5177",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5177",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5178",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5178",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5179",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5179",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5180",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5180",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5181",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5181",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5182",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5182",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5183",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5183",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5184",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5184",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5185",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5185",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5186",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5186",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5187",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5187",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5188",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5188",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5189",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5189",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5190",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5190",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5191",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5191",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5215",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5215",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5232",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5232",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5233",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5233",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5290",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5290",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5374",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5374",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5375",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5375",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5391",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5391",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5392",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5392",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5393",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5393",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5394",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5394",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5421",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5421",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5422",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5422",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-HB-5423",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-HB-5423",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0006",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0006",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0008",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0008",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0015",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0015",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0049",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0049",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0050",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0050",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0054",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0054",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0074",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0074",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0075",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0075",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0091",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0091",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0125",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0125",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0145",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0145",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0161",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0161",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0282",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0282",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0296",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0296",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0297",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0297",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0319",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0319",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0326",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0326",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0381",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0381",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0425",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0425",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0436",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0436",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0437",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0437",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0438",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0438",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0444",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0444",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0496",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0496",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0566",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0566",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0622",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0622",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0623",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0623",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0625",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0625",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0630",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0630",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2025-SB-0700",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2025-SB-0700",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5449",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5449",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5509",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5509",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5541",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5541",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5558",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5558",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5560",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5560",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5579",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5579",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5679",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5679",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5727",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5727",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5786",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5786",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5952",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5952",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5953",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5953",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5954",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5954",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-5955",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-5955",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-6056",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-6056",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-6057",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-6057",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-6070",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-6070",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-6088",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-6088",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-HB-6119",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-HB-6119",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-SB-0948",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-SB-0948",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-SB-0994",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-SB-0994",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-SB-0995",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-SB-0995",
+    "run": "2026-08-06T10:46:07"
+  },
+  {
+    "bill_id": "2026-SB-1077",
+    "error": "401 Client Error: Unauthorized for url: https://proxy.scrapeops.io/v1/?api_key=9518bf19-3882-4fd5-93a3-232ef6d30d70&url=https%3A%2F%2Flegislature.mi.gov%2FBills%2FBill%3FObjectName%3D2026-SB-1077",
+    "run": "2026-08-06T10:46:07"
+  }
+]
